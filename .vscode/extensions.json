@@ -1,5 +1,9 @@
 {
     "recommendations": [
-        "github.copilot"
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+    ],
+    "unwantedRecommendations": [
+        "some.unwanted-extension"
     ]
 }
